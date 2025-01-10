@@ -114,5 +114,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ## **Contact**
-For questions or support, please reach out to [your-email@example.com].
+For questions or support, please reach out to dhruvchudasma10@gmail.com.
 
